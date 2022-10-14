@@ -1,3 +1,3 @@
-[submodule "1_fakeHamilonian"]
-	path = 1_fakeHamilonian
+[submodule "monthCodeChallenge/1_fakeHamiltonian"]
+	path = monthCodeChallenge/1_fakeHamiltonian
 	url = https://github.com/Peozh/1_fakeHamilonian.git
